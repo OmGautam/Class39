@@ -1,2 +1,2 @@
-# Class39
-In this class I added the images of cars to the game.
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
